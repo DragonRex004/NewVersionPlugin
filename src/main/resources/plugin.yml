@@ -1,0 +1,13 @@
+name: NewVersionPlugin
+version: '${project.version}'
+main: de.dragonrexx.newversionplugin.NewVersionPlugin
+api-version: 1.18
+authors: [ Dragonrex ]
+description: This is my First Plugin codded in the 1.18.1 Version.
+commands:
+  heal:
+  permnwp:
+  displayperms:
+  gamesettings:
+  chatcolors:
+  newcmdblock:
